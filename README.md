@@ -48,13 +48,16 @@ Escolherá um local de pesca.
 Detectará as bolhas para iniciar a pesca.
 Jogará o minigame de pesca automaticamente.
 Executará ataques ao final de cada ciclo de pesca.
+
 📋 Observações
 Certifique-se de que o jogo esteja rodando em modo janela para que o bot possa identificar as imagens corretamente.
 Ajuste as regiões e coordenadas no código se necessário, dependendo da resolução do seu monitor.
+
 🛠️ Melhorias Futuras
 Implementar suporte para resolução dinâmica.
 Adicionar logs para monitorar o desempenho do bot.
-Personalizar os ataques com base em condições do jogo.
+Personalizar os ataques com base em condições do jogo. 
+
 📜 Licença
 Este projeto foi desenvolvido para fins educacionais e está sob os direitos autorais de Andre Amorim Liberatto.
 
